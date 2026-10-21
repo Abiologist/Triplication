@@ -1,0 +1,32 @@
+cff-version: 1.2.0
+message: "If you use these data or code, please cite them as below."
+type: dataset
+title: "Data and code for: Triplication in the plant sciences: a protocol report from the 2017 literature and the general methodological case for three replicates"
+authors:
+  - family-names: Clark
+    given-names: Jeremy S.C.
+    affiliation: "Department of Clinical & Molecular Biochemistry, Pomeranian Medical University, Szczecin, Poland"
+    orcid: "https://orcid.org/0000-0003-3179-5638"
+    email: Jeremy.Clark@pum.edu.pl
+  - family-names: Szczypiór-Piasecka
+    given-names: Karina
+    affiliation: "Department of Rehabilitation of the Musculoskeletal System, Pomeranian Medical University, Szczecin, Poland"
+    orcid: "https://orcid.org/0000-0002-9562-9201"
+  - family-names: Rydzewska
+    given-names: Kamila
+    affiliation: "Department of Clinical & Molecular Biochemistry, Pomeranian Medical University, Szczecin, Poland"
+    orcid: "https://orcid.org/0000-0001-7416-0929"
+  - family-names: Podsiadło
+    given-names: Konrad
+    affiliation: "Department of Clinical & Molecular Biochemistry, Pomeranian Medical University, Szczecin, Poland"
+    orcid: "https://orcid.org/0000-0002-4061-2103"
+repository-code: "https://github.com/Abiologist/Triplication"
+license: CC-BY-4.0
+keywords:
+  - triplication
+  - replication
+  - scientific method
+  - reproducibility
+  - meta-research
+  - plant science
+  - experimental design
