@@ -1,0 +1,39 @@
+{
+  "title": "Data and code for: Triplication in the plant sciences: a protocol report from the 2017 literature and the general methodological case for three replicates",
+  "upload_type": "dataset",
+  "description": "<p>Supplementary data, documents and R code accompanying the manuscript <em>Triplication in the plant sciences: a protocol report from the 2017 literature and the general methodological case for three replicates</em> (Clark, Szczypiór-Piasecka, Rydzewska and Podsiadło). The archive contains the supplemental files S1–S13, including definitions (S1), the 2017 plant-science journal grid (S4), the Protocol Report of screened 2017 plant-science articles (S5), the R coding files (S7, S11), the derivation of equation 7 (S10), excluded journal articles (S12) and the heuristic guide for the Protocol Report (S13).</p><p>Licensing: data and documents are licensed under CC BY 4.0 (see LICENSE). R code is licensed separately (see LICENSE-CODE).</p>",
+  "creators": [
+    {
+      "name": "Clark, Jeremy S.C.",
+      "affiliation": "Department of Clinical & Molecular Biochemistry, Pomeranian Medical University, Szczecin, Poland",
+      "orcid": "0000-0003-3179-5638"
+    },
+    {
+      "name": "Szczypiór-Piasecka, Karina",
+      "affiliation": "Department of Rehabilitation of the Musculoskeletal System, Pomeranian Medical University, Szczecin, Poland",
+      "orcid": "0000-0002-9562-9201"
+    },
+    {
+      "name": "Rydzewska, Kamila",
+      "affiliation": "Department of Clinical & Molecular Biochemistry, Pomeranian Medical University, Szczecin, Poland",
+      "orcid": "0000-0001-7416-0929"
+    },
+    {
+      "name": "Podsiadło, Konrad",
+      "affiliation": "Department of Clinical & Molecular Biochemistry, Pomeranian Medical University, Szczecin, Poland",
+      "orcid": "0000-0002-4061-2103"
+    }
+  ],
+  "keywords": [
+    "triplication",
+    "replication",
+    "scientific method",
+    "reproducibility",
+    "meta-research",
+    "plant science",
+    "experimental design"
+  ],
+  "license": "cc-by-4.0",
+  "access_right": "open",
+  "language": "eng"
+}
